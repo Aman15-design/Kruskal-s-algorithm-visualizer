@@ -1,0 +1,213 @@
+  body {
+      /* background-color:#1A1A1D; */
+      background-image: url("MicrosoftTeams-image.png");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-size: 100%;
+}
+/* @keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+} */
+
+h1{
+    padding-left: 40%;
+    /* background-color: #4CAF50; */
+    background-color: #C3073F;
+    height:70px;
+    color: white;
+    /* width: 10px; */
+    /* background-size: 100%; */
+}
+
+  
+  input[type=Number] {
+    width: 50%;
+  }
+
+  .cssanimation, .cssanimation span {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+.cssanimation span { display: inline-block }
+
+.fadeInBottom { animation-name: fadeInBottom }
+@keyframes fadeInBottom {
+    from {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+    to { opacity: 1 }
+}
+#mynetwork {
+    width: 735px;
+    height: 500px;
+    border: 4px solid #C3073F;
+    background-color: white;
+    
+    /* margin-left: 40%; */
+    
+}
+#mynetwork2 {
+    width: 735px;
+    height: 500px;
+    border: 4px solid #C3073F;
+    background-color: white;
+    /* margin-left: 40%; */
+  }
+  /* button { */
+    /* background-color: #4CAF50; Green */
+    /* border: none; */
+    /* color: white; */
+    /* padding: 15px 32px; */
+    /* text-align: center; */
+    /* text-decoration: none; */
+    /* display: inline-block; */
+    /* font-size: 16px; */
+  /* } */
+
+
+
+  .button2 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #C3073F;
+    /* opacity: 80%; */
+    border: none;
+    color: white;
+    outline: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 400px;
+    /* height: 20px; */
+    /* transition: all 0.2s; */
+    cursor: pointer;
+    margin-left: 125%;
+    box-shadow: 0 6px #999
+    
+  }
+  .button2:hover {background-color: #c3073fbb}
+
+.button2:active {
+  background-color: #c3073fbb;
+  box-shadow: 0 4px #666;
+  transform: translateY(4px);
+}
+  /* .button2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button2 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button2:hover span {
+    padding-right: 25px;
+  }
+  
+  .button2:hover span:after {
+    opacity: 1;
+    right: 0;
+  } */
+  
+  /* .button2:hover {
+    background-color: #C3073F;
+    color: white;
+    opacity: 100%;
+  } */
+  
+
+  input[type=Number]{
+
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    padding: 12px 20px 12px 40px;
+    margin-left: 22%;
+   
+  }
+
+
+  /* input[type=Number] { */
+    /* width: 130px; */
+    /* box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    /* padding: 12px 20px 12px 40px; */
+    /* transition: width 0.4s ease-in-out; */ 
+  
+  
+
+
+
+
+  .button1 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #C3073F;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 400px;
+    /* height: 20px; */
+    /* transition: all 0.5s; */
+    cursor: pointer;
+    margin-left: 40%;
+    box-shadow: 0 6px #999
+    /* margin-top: 5%; */
+
+  }
+  .button1:hover {background-color: #c3073fbb}
+
+.button1:active {
+  background-color: #c3073fbb;
+  box-shadow: 0 4px #666;
+  transform: translateY(4px);
+}
+  
+  /* .button1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button1 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button1:hover span {
+    padding-right: 25px;
+  }
+  
+  .button1:hover span:after {
+    opacity: 1;
+    right: 0;
+  } */
