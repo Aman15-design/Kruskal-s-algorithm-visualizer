@@ -7,5 +7,5 @@ A minimum spanning tree has (V – 1) edges where V is the number of vertices in
 1. Sort all the edges in non-decreasing order of their weight. 
 2. Pick the smallest edge. Check if it forms a cycle with the spanning tree formed so far. If cycle is not formed, include this edge. Else, discard it. 
 3. Repeat step#2 until there are (V-1) edges in the spanning tree.
-# ![kruskal 1](https://user-images.githubusercontent.com/69804663/130104530-d3a61932-569b-4753-9e33-b4aea7f916ab.PNG)
+# ![kruskal's](https://user-images.githubusercontent.com/69804663/131202529-071818f3-59fc-4abc-a881-2e5c2cb0cf48.PNG)
 #
